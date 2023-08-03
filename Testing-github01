@@ -1,0 +1,4 @@
+# python Coding
+q=2
+a=4
+print(q+a)
